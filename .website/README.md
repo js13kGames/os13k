@@ -1,4 +1,7 @@
 ---
+genres:
+  - sandbox
+  - casual
 directors_cut: https://killedbyapixel.github.io/OS13k/
 video: https://youtu.be/g9eUovlXylg
 # See github.com/js13kGames/hello-world for supported frontmatter
